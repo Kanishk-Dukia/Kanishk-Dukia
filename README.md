@@ -115,7 +115,7 @@ I’m passionate about discovering something new every day and love diving into 
 <!-- contact-me -->
 
 <details>
-  <summary><h2> <img align="center" src="https://github.com/Kanishk-Dukia/Kanishk-Dukia/blob/main/icons/contact.gif" width="37"/> Contact Me</h2></summary>
+  <summary><h2> <img align="center" src="https://github.com/Kanishk-Dukia/Kanishk-Dukia/blob/main/icons/contact.png" width="37"/> Contact Me</h2></summary>
   <p>
     <i>You can reach out to me via</i>
     <a href="mailto:kanishk97822@gmail.com">
