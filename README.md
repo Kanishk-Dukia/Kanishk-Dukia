@@ -32,7 +32,7 @@ I’m passionate about discovering something new every day and love diving into 
 
  <details>
   <summary><h4> <img align="center" src="https://github.com/Kanishk-Dukia/Kanishk-Dukia/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
-     ### Software Developer Intern at Payfura | June 2023 - July 2023
+     ### Software Developer Intern ### at Payfura | June 2023 - July 2023
 
 - Developed **Order Creation API** (POST) to ensure users do not exceed the weekly buy limit.
 - Implemented **Fraud Check** mechanisms to prevent malicious activities.
