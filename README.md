@@ -126,14 +126,9 @@ I’m passionate about discovering something new every day and love diving into 
 
 <!-- extras -->
 
-<details>
-  <summary>Click to see a random joke</summary>
-
-  <div align="center">
-   
-  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Dkan)
-
-  </div>
-</details>
- 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
