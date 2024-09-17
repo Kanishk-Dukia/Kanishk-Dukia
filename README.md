@@ -124,6 +124,15 @@ I’m passionate about discovering something new every day and love diving into 
   </p>
 </details>
 
+<!-- extras -->
 
+<details>
+  <summary>Click to see a random joke</summary>
+  <div align="center">
+
+    ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Dkan)
+
+  </div>
+</details>
  
 
