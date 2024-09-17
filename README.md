@@ -119,7 +119,7 @@ I’m passionate about discovering something new every day and love diving into 
   <p>
     <i>You can reach out to me via</i>
     <a href="mailto:kanishk97822@gmail.com">
-      <img align="center" src="https://github.com/Kanishk-Dukia/Kanishk-Dukia/blob/main/icons/gmail.png" style="height:50px; width:50px;/>
+      <img align="center" src="https://github.com/Kanishk-Dukia/Kanishk-Dukia/blob/main/icons/gmail.png" width="100"/>
     </a>
   </p>
 </details>
