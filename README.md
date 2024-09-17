@@ -11,6 +11,6 @@
  <img alt="GIF" src="https://github.com/Kanishk-Dukia/Kanishk-Dukia/blob/main/icons/crab.jpg" />
 </div>
 
-## <img align ='center' src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" width="37" /> About Me
+## <img align ='center' src="https://media.giphy.com/media/WtOkaikiwaR87ZvAFH/giphy.gif?cid=790b7611ttfu8sthjz1meetph7nl68issefl2e1x5c0h66qm&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="37" /> About Me
 
 I’m passionate about discovering something new every day and love diving into the absurd and unconventional with programming and technology. Whether it’s experimenting with new tech or creating innovative solutions, I’m always up for a challenge.
