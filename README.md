@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/Kanishk-Dukia/Kanishk-Dukia/blob/main/icons/rocket.gif" alt="rocket" style="height:50px; width:50px;">
+<h1 align="center">Hi <img src="https://github.com/Kanishk-Dukia/Kanishk-Dukia/blob/main/icons/rocket.gif" alt="rocket" style="height:40px; width:40px;">
 , I'm Kanishk Dukia</h1>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=Kanishk-Dukia&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
