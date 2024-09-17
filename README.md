@@ -11,6 +11,6 @@
  <img alt="GIF" src="https://github.com/Kanishk-Dukia/Kanishk-Dukia/blob/main/icons/crab.jpg" />
 </div>
 
-## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
+## <img align ='center' src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" width="37" /> About Me
 
-I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A versatile developer specializing in **MERN, Android Development, and Chatbot Development** with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
+I’m passionate about discovering something new every day and love diving into the absurd and unconventional with programming and technology. Whether it’s experimenting with new tech or creating innovative solutions, I’m always up for a challenge.
