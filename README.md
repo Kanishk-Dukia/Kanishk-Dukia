@@ -19,19 +19,19 @@ I’m passionate about discovering something new every day and love diving into 
 <details>
  <summary>
     <h2> 
-      <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/about.png" width="37" /> 
+      <img align="center" src="https://github.com/Kanishk-Dukia/Kanishk-Dukia/blob/main/icons/Resume.gif" width="37" /> 
     Resume
     </h2>
 </summary>
 
  <details>
-  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
+  <summary><h4> <img align="center" src="https://github.com/Kanishk-Dukia/Kanishk-Dukia/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
   <span><img src="https://img.shields.io/badge/BTECH-MANIT-1877F2?style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/GPA-8.36-EFEEE9?style=for-the-badge"></span>
  </details>
 
  <details>
-  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
+  <summary><h4> <img align="center" src="https://github.com/Kanishk-Dukia/Kanishk-Dukia/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
   - **[Your Role] ** at [Company] | [Duration]
     - [Work Description]
  </details>
